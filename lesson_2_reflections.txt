@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git file created which stores the history of the commits 
+this is req so as to keep a track of changes made during each commit 
